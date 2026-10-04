@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/sccp.png" alt="Banner principal do perfil de desenvolvimento de sistemas" width="900">
+  <img src="sccp.png" alt="Banner principal do perfil de desenvolvimento de sistemas" width="900">
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@ Estou em constante evolução e busco novas oportunidades para crescer como dese
 </p>
 
 <p align="center">
-  <img src="./assets/aizen.jpg" alt="Imagem complementar do perfil de desenvolvedor" width="900">
+  <img src="aizen.jpg" alt="Imagem complementar do perfil de desenvolvedor" width="900">
 </p>
 
 <p align="center">
