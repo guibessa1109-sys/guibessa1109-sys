@@ -1,60 +1,163 @@
-# 👋 Eae, eu sou o **Guilherme Bessa**
-### **Estudante de ETEC e cursando Desenvolvimento de Sistemas** | Especialista em Arquitetura de Software & Soluções Escaláveis
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  README DARK PREMIUM — PERFIL DE DESENVOLVEDOR               ║
+  ║                                                              ║
+  ║  Substitua os placeholders abaixo:                           ║
+  ║  [SEU NOME] · [NOME DA INSTITUIÇÃO] · [CIDADE/ESTADO]        ║
+  ║  [LINK_INSTAGRAM] · [LINK_TIKTOK] · [LINK_LINKEDIN] · [ANO]  ║
+  ║                                                              ║
+  ║  Imagens esperadas:                                          ║
+  ║  ./assets/banner.png  ·  ./assets/about.png                  ║
+  ║                                                              ║
+  ║  Se algum ícone de badge não aparecer, remova apenas o       ║
+  ║  trecho "&logo=..." daquela URL. O badge continua válido.    ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
 
-<p align="left">
-  <a href="https://linkedin.com/in/GuilhermeBessa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:seu-email@dominio.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://gbportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"></a>
+<!-- ═══════════════ 1. IMAGEM PRINCIPAL ═══════════════ -->
+
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner principal do perfil de desenvolvimento de sistemas" width="900">
 </p>
 
-### 🚀 Sobre Mim
-
-Engenheiro de Software focado em construir aplicações web e mobile de alto desempenho, seguras e com foco total na experiência do usuário. Com anos de bagagem no ecossistema de desenvolvimento, atuo desde a modelagem do banco de dados e arquitetura de microsserviços até interfaces modernas, responsivas e fluidas.
-
-* 🧠 Atualmente aprofundando estudos em **Arquitetura de Sistemas Distribuídos** e **Inteligência Artificial aplicada**.
-* 🛠️ Defensor fervoroso de **Código Limpo (Clean Code)**, **Arquitetura Limpa (Clean Architecture)** e **Testes Automatizados (TDD/BDD)**.
-* 💬 Fale comigo sobre: React, Node.js, Cloud, DevOps e boas práticas de engenharia.
-
-### 🛠️ Tecnologias & Ferramentas
-
-| Camada | Tecnologias Principais |
-| :--- | :--- |
-| **Frontend** | React.js, Next.js, TypeScript, Vue.js, Tailwind CSS, Redux Toolkit, HTML5/CSS3 |
-| **Backend** | Node.js (NestJS/Express), Python (FastAPI/Django), Go, Java (Spring Boot) |
-| **Mobile** | React Native, Flutter |
-| **Bancos de Dados** | PostgreSQL, MySQL, MongoDB, Redis, Oracle |
-| **DevOps & Cloud** | AWS (S3, EC2, Lambda), Docker, Kubernetes, GitHub Actions (CI/CD) |
-| **Testes & Outros** | Jest, Cypress, GraphQL, REST APIs, Git, Linux |
-
-### 💻 Projetos Principais em Destaque
-
-#### 1. 🚀 [Nome do Projeto 1] — Plataforma E-commerce Ultra Fast
-* **Descrição:** Plataforma de comércio eletrônico completa com carregamento instantâneo, carrinho em tempo real, painel administrativo inteligente e gateway de pagamento integrado.
-* **Stack:** Next.js (App Router), Node.js (NestJS), PostgreSQL, Prisma, Tailwind CSS, Stripe API.
-* **Destaques Técnicos:** Arquitetura orientada a eventos, cache com Redis para otimização de buscas e cobertura de 90% de testes unitários.
-* [⚙️ Ver Repositório](https://github.com/seu-usuario/projeto-1) | [🌐 Demonstração Online](https://projeto-1.com)
-
-#### 2. 📊 [Nome do Projeto 2] — Dashboard de Análise Financeira SaaS
-* **Descrição:** Um sistema B2B moderno para monitoramento de finanças corporativas, geração de relatórios automatizados por IA e visualização gráfica de fluxo de caixa.
-* **Stack:** React.js, Python (FastAPI), MongoDB, Docker, AWS EC2, Chart.js.
-* **Destaques Técnicos:** Processamento assíncrono de arquivos pesados, integração com modelos generativos (OpenAI) e CI/CD estruturado.
-* [⚙️ Ver Repositório](https://github.com/seu-usuario/projeto-2) | [🌐 Demonstração Online](https://projeto-2.com)
-
-#### 3. 📱 [Nome do Projeto 3] — App Mobile de Delivery em Tempo Real
-* **Descrição:** Aplicativo de entregas focado na experiência do usuário, rastreamento via mapa integrado e notificações push em tempo real.
-* **Stack:** React Native, Expo, Node.js, WebSockets (Socket.io), Redis, Google Maps API.
-* **Destaques Técnicos:** Geolocalização de alta precisão em background e sincronização resiliente de dados offline-first.
-* [⚙️ Ver Repositório](https://github.com/seu-usuario/projeto-3)
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=guibessa1109-sys&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibessa1109-sys&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="180">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0EA5E9,50:2563EB,100:7C3AED" alt="" width="100%" height="2">
 </p>
 
-### 📫 Como me encontrar
+<!-- ═══════════════ 2. APRESENTAÇÃO / QUEM SOU ═══════════════ -->
 
-* 💼 Vamos nos conectar no [LinkedIn](https://linkedin.com/in/GuilhermeBessa).
-* 📧 Tem uma proposta de projeto ou vaga? Me mande um e-mail em `seu-email@dominio.com`.
-* ⚡ Curiosidade: Eu automatizo praticamente tudo o que faço mais de três vezes ao dia. 😉
+<h1 align="center">👋 Olá! Eu sou [SEU NOME]</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudante-Desenvolvimento_de_Sistemas-0B1220?style=for-the-badge&labelColor=0B1220&color=0B1220" alt="Estudante de Desenvolvimento de Sistemas">
+</p>
+
+<div align="center">
+
+Sou estudante de **Desenvolvimento de Sistemas** e estou construindo minha base na área de tecnologia, estudando lógica, programação e boas práticas de desenvolvimento.
+
+Meu foco é aprender de forma consistente, praticar com projetos e transformar o conhecimento em soluções reais.
+
+Estou em constante evolução e busco novas oportunidades para crescer como desenvolvedor.
+
+</div>
+
+<br>
+
+<!-- ═══════════════ 3. ONDE ESTUDO ═══════════════ -->
+
+<h3 align="center">🎓 Formação</h3>
+
+<div align="center">
+
+**Desenvolvimento de Sistemas**
+
+`[NOME DA INSTITUIÇÃO]`
+
+`[CIDADE/ESTADO]`
+
+<sub>Em formação na área de desenvolvimento de sistemas</sub>
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,50:2563EB,100:0EA5E9" alt="" width="100%" height="2">
+</p>
+
+<!-- ═══════════════ 4. O QUE ESTOU APRENDENDO ═══════════════ -->
+
+<h1 align="center">🚀 O que estou aprendendo</h1>
+
+<p align="center">
+  <sub>As tecnologias que fazem parte da minha formação e da minha rotina de estudos.</sub>
+</p>
+
+<!-- ═══════════════ 5. TECNOLOGIAS ═══════════════ -->
+
+<h3 align="center">Front-End</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-0B1220?style=for-the-badge&logo=html5&logoColor=22D3EE" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-0B1220?style=for-the-badge&logo=css3&logoColor=22D3EE" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=22D3EE" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=22D3EE" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Angular-0B1220?style=for-the-badge&logo=angular&logoColor=22D3EE" alt="Angular">
+  <img src="https://img.shields.io/badge/Bootstrap-0B1220?style=for-the-badge&logo=bootstrap&logoColor=22D3EE" alt="Bootstrap">
+</p>
+
+<h3 align="center">Back-End / Programação</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-0B1220?style=for-the-badge&logo=csharp&logoColor=22D3EE" alt="C#">
+  <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Python">
+</p>
+
+<h3 align="center">Ferramentas e Tecnologias</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=22D3EE" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=22D3EE" alt="Docker">
+  <img src="https://img.shields.io/badge/JSON-0B1220?style=for-the-badge&logo=json&logoColor=22D3EE" alt="JSON">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0EA5E9,50:2563EB,100:7C3AED" alt="" width="100%" height="2">
+</p>
+
+<!-- ═══════════════ 6. SEGUNDA IMAGEM ═══════════════ -->
+
+<p align="center">
+  <img src="./assets/about.png" alt="Imagem complementar do perfil de desenvolvedor" width="900">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,50:2563EB,100:0EA5E9" alt="" width="100%" height="2">
+</p>
+
+<!-- ═══════════════ 7. REDES SOCIAIS ═══════════════ -->
+
+<h1 align="center">🌐 Minhas Redes Sociais</h1>
+
+<p align="center">
+  <sub>Vamos nos conectar e trocar experiências.</sub>
+</p>
+
+<p align="center">
+  <a href="[LINK_INSTAGRAM]" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=22D3EE" alt="Instagram">
+  </a>
+  <a href="[LINK_TIKTOK]" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TikTok-0B1220?style=for-the-badge&logo=tiktok&logoColor=22D3EE" alt="TikTok">
+  </a>
+  <a href="[LINK_LINKEDIN]" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn">
+  </a>
+</p>
+
+<br>
+
+<!-- ═══════════════ 8. FOOTER PERSONALIZADO ═══════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0EA5E9,50:2563EB,100:7C3AED" alt="" width="100%" height="2">
+</p>
+
+<p align="center">
+  <code>&lt;/&gt;</code>
+</p>
+
+<p align="center">
+  <code>while (estudando) { praticar(); construir(); evoluir(); }</code>
+</p>
+
+<p align="center">
+  <i>Cada linha de código é um passo, cada projeto é uma prova de evolução.</i>
+</p>
+
+<p align="center">
+  <sub>© [ANO] [SEU NOME] · Desenvolvimento de Sistemas</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B3A6B,100:312E81&height=110&section=footer" alt="" width="100%">
+</p>
