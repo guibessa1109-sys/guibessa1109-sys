@@ -1,32 +1,12 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  README DARK PREMIUM — PERFIL DE DESENVOLVEDOR               ║
-  ║                                                              ║
-  ║  Substitua os placeholders abaixo:                           ║
-  ║  [SEU NOME] · [NOME DA INSTITUIÇÃO] · [CIDADE/ESTADO]        ║
-  ║  [LINK_INSTAGRAM] · [LINK_TIKTOK] · [LINK_LINKEDIN] · [ANO]  ║
-  ║                                                              ║
-  ║  Imagens esperadas:                                          ║
-  ║  ./assets/banner.png  ·  ./assets/about.png                  ║
-  ║                                                              ║
-  ║  Se algum ícone de badge não aparecer, remova apenas o       ║
-  ║  trecho "&logo=..." daquela URL. O badge continua válido.    ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
-<!-- ═══════════════ 1. IMAGEM PRINCIPAL ═══════════════ -->
-
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner principal do perfil de desenvolvimento de sistemas" width="900">
+  <img src="./assets/sccp.png" alt="Banner principal do perfil de desenvolvimento de sistemas" width="900">
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0EA5E9,50:2563EB,100:7C3AED" alt="" width="100%" height="2">
 </p>
 
-<!-- ═══════════════ 2. APRESENTAÇÃO / QUEM SOU ═══════════════ -->
-
-<h1 align="center">👋 Olá! Eu sou [SEU NOME]</h1>
+<h1 align="center">👋 Olá! Eu sou Guilherme Bessa</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estudante-Desenvolvimento_de_Sistemas-0B1220?style=for-the-badge&labelColor=0B1220&color=0B1220" alt="Estudante de Desenvolvimento de Sistemas">
@@ -44,19 +24,15 @@ Estou em constante evolução e busco novas oportunidades para crescer como dese
 
 <br>
 
-<!-- ═══════════════ 3. ONDE ESTUDO ═══════════════ -->
-
 <h3 align="center">🎓 Formação</h3>
 
 <div align="center">
 
-**Desenvolvimento de Sistemas**
+**Cursando Desenvolvimento de Sistemas**
 
-`[NOME DA INSTITUIÇÃO]`
+`ETEC HORÁCIO AUGUSTO DA SILVEIRA`
 
-`[CIDADE/ESTADO]`
-
-<sub>Em formação na área de desenvolvimento de sistemas</sub>
+`SÃO PAULO`
 
 </div>
 
@@ -64,15 +40,11 @@ Estou em constante evolução e busco novas oportunidades para crescer como dese
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,50:2563EB,100:0EA5E9" alt="" width="100%" height="2">
 </p>
 
-<!-- ═══════════════ 4. O QUE ESTOU APRENDENDO ═══════════════ -->
-
 <h1 align="center">🚀 O que estou aprendendo</h1>
 
 <p align="center">
   <sub>As tecnologias que fazem parte da minha formação e da minha rotina de estudos.</sub>
 </p>
-
-<!-- ═══════════════ 5. TECNOLOGIAS ═══════════════ -->
 
 <h3 align="center">Front-End</h3>
 
@@ -104,39 +76,33 @@ Estou em constante evolução e busco novas oportunidades para crescer como dese
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0EA5E9,50:2563EB,100:7C3AED" alt="" width="100%" height="2">
 </p>
 
-<!-- ═══════════════ 6. SEGUNDA IMAGEM ═══════════════ -->
-
 <p align="center">
-  <img src="./assets/about.png" alt="Imagem complementar do perfil de desenvolvedor" width="900">
+  <img src="./assets/aizen.jpg" alt="Imagem complementar do perfil de desenvolvedor" width="900">
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,50:2563EB,100:0EA5E9" alt="" width="100%" height="2">
 </p>
 
-<!-- ═══════════════ 7. REDES SOCIAIS ═══════════════ -->
-
 <h1 align="center">🌐 Minhas Redes Sociais</h1>
 
 <p align="center">
-  <sub>Vamos nos conectar e trocar experiências.</sub>
+  <sub>Me segue lá para qualquer dúvida</sub>
 </p>
 
 <p align="center">
-  <a href="[LINK_INSTAGRAM]" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/sccp_gui2009" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=22D3EE" alt="Instagram">
   </a>
-  <a href="[LINK_TIKTOK]" target="_blank" rel="noopener noreferrer">
+  <a href="https;//tiktok.com/@sccp_guizin2009" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TikTok-0B1220?style=for-the-badge&logo=tiktok&logoColor=22D3EE" alt="TikTok">
   </a>
-  <a href="[LINK_LINKEDIN]" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/guilhermebessa" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn">
   </a>
 </p>
 
 <br>
-
-<!-- ═══════════════ 8. FOOTER PERSONALIZADO ═══════════════ -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0EA5E9,50:2563EB,100:7C3AED" alt="" width="100%" height="2">
@@ -155,7 +121,7 @@ Estou em constante evolução e busco novas oportunidades para crescer como dese
 </p>
 
 <p align="center">
-  <sub>© [ANO] [SEU NOME] · Desenvolvimento de Sistemas</sub>
+  <sub>© 2026 Guilherme Bessa · Desenvolvimento de Sistemas</sub>
 </p>
 
 <p align="center">
